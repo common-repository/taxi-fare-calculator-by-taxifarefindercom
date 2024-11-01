@@ -1,0 +1,49 @@
+.taxifarefinder_widget select {
+    width: 100%;
+}
+
+.taxifarefinder_widget input[type="text"] {
+    min-width: 40%;
+}
+
+#tff_loading {
+    display: none;
+    text-align: center;
+}
+
+#tff_fareresults {
+    width: 100%;
+    font-size: 2.0em;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    border: 1px solid #EEEEEE;
+}
+
+#tff_from_address, #tff_to_address {
+    font-size: 0.9em;
+}
+
+
+#tff_button, #tff-logo {
+    text-align: center;
+}
+
+#tff_logo {
+    text-align: center;
+}
+
+#tff_rateinfo {
+    /*font-size: 1em;*/
+    text-align: center;
+}
+
+#tff_disclaimer {
+    padding-bottom: 2px;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+#tff_formfields input[type="text"] {
+    width: 100%;
+}
